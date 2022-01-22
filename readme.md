@@ -12,6 +12,6 @@ Aquest plugin fa dues consultes a dos apis proveïdes per [StreamUp.tips](https:
 
 Per ara es poden trobar aquestes apis a [http://4xsample.fun/A_cagar_a_la_via/black.php](http://4xsample.fun/A_cagar_a_la_via/black.php) i [http://4xsample.fun/A_cagar_a_la_via/white.php](http://4xsample.fun/A_cagar_a_la_via/white.php), no en garanteixo l'uptime ni res així que el meu consell és pujar els .php a qualsevol servidoret gratuït que tingueu i us manteniu vosaltres mateixos els llistats de cartes. Sempre podeu mirar de muntar-vos una [Maquina virtual gratuita de Oracle Cloud](https://github.com/4Xsample/Servidor-gratis-Oracle-Cloud)
 
-Per copiar facil i rapidament els arxius que tinc aquí al vostre servidor podeu usar la linea sudo git clone https://github.com/4Xsample/A_cagar_a_la_via.git des de la carpeta publica del vostre servidor web.
+Per copiar facil i rapidament els arxius que tinc aquí al vostre servidor podeu usar la linea `sudo git clone https://github.com/4Xsample/A_cagar_a_la_via.git` des de la carpeta publica del vostre servidor web.
 
 Aquests arxius es proveeixen tal com estan i no en garanteixo manteniment.
