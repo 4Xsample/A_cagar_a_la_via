@@ -12,9 +12,8 @@
     "Castellers",
     "El temps",
     "La santa espina",
-    "Puta Espanya", 
-    "“Los catalanes hacen cosas”", 
-    "Un pixapins anant a caçar bolets armat", 
+    "Puta Espanya!",
+    "Un pixapins anant a caçar bolets armat",
     "Plats bruts",
     "Pere Aragones",
     "Carles Puigdemont",
@@ -41,6 +40,7 @@
     "El meu compte bancari",
     "Porno alenany sadomasoquista",
     "adriannumeritos"
+    "El Pulgatejana fent poledance en tanga"
     
 ];
   $min = 0;
