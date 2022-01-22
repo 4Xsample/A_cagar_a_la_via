@@ -9,8 +9,8 @@
     "Què acabarà portant Catalunya a la independència?",
     "Quin és el secret d’una vida llarga i saludable?",
     "Què vaig trobar amagat al lavabo del regional?",
-    "La nova moda, ser negacionista de _____."
-    "La nova incorporació a Creadors es _____."
+    "La nova moda, ser negacionista de:"
+    "La nova incorporació a Creadors es:"
 ];
   $min = 0;
   $max = count($array)-1;
