@@ -3,7 +3,8 @@
 ###  I si et molesta ves a cagar a la via!!!
 
 [StreamUp.tips](https://streamup.tips/) té un fantàstic plugin per OBS usant [OBS](https://obsproject.com) usant [Streamer.bot](https://streamer.bot) inspirat en el joc [Cards Against Humanity](https://www.cardsagainsthumanity.com) que es pot descarregar [aquí](https://streamup.tips/product/cards-against-humanity).
-Nosaltres, en català podem trobar una magnífica versió traduida anomenada [A cagar a la via](https://acagar.cat) així que toca adaptar el plugin a la nostre llengua.
+
+Nosaltres, en català, podem trobar una magnífica traducció d'aquest joc anomenada [A cagar a la via](https://acagar.cat) així que toca adaptar el plugin a la nostre llengua.
 
 Per tal de fer-ho cal veure com funciona el plugin de [StreamUp](https://streamup.tips/).
 
