@@ -1,6 +1,6 @@
 # A cagar a la via
 ## El plugin per OBS més burro del mercat.
-###  I t'ofen ves a cagar a la via!!!
+###  I si t'ofen ves a cagar a la via!!!
 
 [StreamUp.tips](https://streamup.tips/) té un fantàstic plugin per OBS usant [OBS](https://obsproject.com) usant [Streamer.bot](https://streamer.bot) inspirat en el joc [Cards Against Humanity](https://www.cardsagainsthumanity.com) que es pot descarregar [aquí](https://streamup.tips/product/cards-against-humanity).
 
