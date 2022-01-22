@@ -24,12 +24,12 @@
     "Què ès el millor per animar una cita a cegues?",
     "Què va causar l'atac de cor de l'avi?",
     "Què feia tanta pudor dins la nevera?",
-    "Quan tiro canyes, m'asseguro que a l'altra persona li agradi".
-    "Què va trobar la meva exparella a l'armari?"
+    "Quan tiro canyes, m'asseguro que a l'altra persona li agradi",
+    "Què va trobar la meva exparella a l'armari?",
     "Què fa que una festa sigui una festa?",
     "No em van ascendir a la feina quan van descobrir que m'encanta",
-    "Què és el primer en el que penso després de fer un bon polvo?",
-    "Què tenim en comú els que estem veient aquest streaming?"
+    "Què és el primer en el que penso després de fer un bon polvo?"
+    
 ];
   $min = 0;
   $max = count($array)-1;
