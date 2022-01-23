@@ -10,6 +10,8 @@ Per tal de fer-ho cal veure com funciona el plugin de [StreamUp](https://streamu
 
 Aquest plugin fa dues consultes a dos apis proveïdes per [StreamUp.tips](https://streamup.tips/) a [https://api.streamup.tips/CardsAgainstHumanity/Black](https://api.streamup.tips/CardsAgainstHumanity/Black) i [https://api.streamup.tips/CardsAgainstHumanity/White](https://api.streamup.tips/CardsAgainstHumanity/White) i assigna aquestes consultes a un parell de variables i fa la seva màgia negra, així que la forma més senzilla de traduir ha sigut crear els arxius white.php i black.php, pujar-los a qualsevol servidor propi i cambiar la direcció de la api.
 
-Per ara es poden trobar aquestes apis a [http://4xsample.fun/black.php](http://4xsample.fun/black.php) i [http://4xsample.fun/white.php](http://4xsample.fun/white.php), no en garanteixo l'uptime ni res així que el meu consell és pujar els .php a qualsevol servidoret gratuït que tingueu i us manteniu vosaltres mateixos els llistats de cartes. Sempre podeu mirar de muntar-vos una [Maquina virtual gratuita de Oracle Cloud](https://github.com/4Xsample/Servidor-gratis-Oracle-Cloud)
+Per ara es poden trobar aquestes apis a [http://4xsample.fun/A_cagar_a_la_via/black.php](http://4xsample.fun/A_cagar_a_la_via/black.php) i [http://4xsample.fun/A_cagar_a_la_via/white.php](http://4xsample.fun/A_cagar_a_la_via/white.php), no en garanteixo l'uptime ni res així que el meu consell és pujar els .php a qualsevol servidoret gratuït que tingueu i us manteniu vosaltres mateixos els llistats de cartes. Sempre podeu mirar de muntar-vos una [Maquina virtual gratuita de Oracle Cloud](https://github.com/4Xsample/Servidor-gratis-Oracle-Cloud)
+
+Per copiar facil i rapidament els arxius que tinc aquí al vostre servidor podeu usar la linea `sudo git clone https://github.com/4Xsample/A_cagar_a_la_via.git` des de la carpeta publica del vostre servidor web.
 
 Aquests arxius es proveeixen tal com estan i no en garanteixo manteniment.
