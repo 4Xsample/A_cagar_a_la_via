@@ -1,7 +1,9 @@
 <?php
+
   $array = [
-    "L’Opus Dei", 
-    "L’adoctrina-ment de TV3", 
+
+    "L’Opus Dei",
+    "L’adoctrina-ment de TV3",
     "La variant Òmicron", 
     "Un penis superheroi que lluita per la justícia",
     "Tsunami Democràtic",
@@ -23,7 +25,7 @@
     "Camps de concentració",
     "Una unitat antidisturbis fent un examen de mates",
     "Anar de vacances a Susqueda i no tornar",
-    "Un borbó a l'atzar",-
+    "Un borbó a l'atzar",
     "Un penis de 35 cm",
     "L’accent de Girona",
     "Francisco Franco",
@@ -71,14 +73,12 @@
     "La moreneta",
     "Semen d'antivacunes",
     "El titafreda jugant a Crusader kings 3"
-   
-    
-];
-  $min = 0;
-  $max = count($array)-1;
 
-  $rand = rand($min,$max);
+  ];
 
-  echo $array[$rand]
+    $min = 0;
+    $max = count($array)-1;
+    $rand = rand($min,$max);
+    echo $array[$rand]
 
 ?>

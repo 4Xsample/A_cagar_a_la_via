@@ -1,5 +1,7 @@
 <?php
+
   $array = [
+
     "Quin és el regal més català que et pot cagar el tió?", 
     "Quin era el hobby més secret de Francisco Franco, que només feia en nits de lluna plena?", 
     "Quina serà la nova i trencadora activitat a la pròxima Festa dels Súpers?", 
@@ -24,13 +26,12 @@
     "Què fa que una festa sigui una festa?",
     "No em van ascendir a la feina quan van descobrir que m'encanta",
     "Què és el primer en el que penso després de fer un bon polvo?"
-    
-];
-  $min = 0;
-  $max = count($array)-1;
 
-  $rand = rand($min,$max);
+  ];
 
-  echo $array[$rand]
+    $min = 0;
+    $max = count($array)-1;
+    $rand = rand($min,$max);
+    echo $array[$rand]
 
 ?>
