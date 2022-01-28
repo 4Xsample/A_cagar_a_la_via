@@ -23,4 +23,6 @@ Per ara es poden trobar aquestes apis a [http://4xsample.fun/A_cagar_a_la_via/bl
 
 Per copiar fàcil i rapidament els arxius d'aquest repostori al vostre servidor podeu usar la linea `sudo git clone https://github.com/4Xsample/A_cagar_a_la_via.git` des de la carpeta publica del vostre servidor web.
 
+Si voleu fer servir les accions del plugin ja modificades podeu copiar el text del arxiu `streamer.bot import.txt` en lloc del que proveeixen la gent de [StreamUp.tips](https://streamup.tips/) que te les meves apis posades i un parell de detalls afegits com per exemple que el bot escrigui automaticament la combinació de cartes al xat i a sobre ho digui en veu alta [TwitchSpeaker](https://streamer.bot) si el teniu configurat
+
 Aquests arxius es proveeixen tal com estan i no en garanteixo manteniment.
