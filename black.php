@@ -12,7 +12,6 @@
     "Quin és el secret d’una vida llarga i saludable?",
     "Què vaig trobar amagat al lavabo del regional?",
     "La nova moda, ser negacionista de:",
-    "La nova incorporació a Creadors es:",
     "Durant l'enterrament de l'àvia, no podia deixar de pensar en:",
     "Quin es el pitjor malson d'un alcalde de la CUP?",
     "Jo no sóc racista, simplement m'agrada més",
