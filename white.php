@@ -1,5 +1,6 @@
 <?php
 
+// Aquí tenim una llista de frases absurdes
 $array = [
     'L’Opus Dei.',
     'L’adoctrinament de TV3.',
@@ -73,9 +74,13 @@ $array = [
 
 ];
 
+// Aquí calculen un número aleatori, perquè? Doncs perquè...
 $min = 0;
 $max = count($array) - 1;
 $rand = rand($min, $max);
+
+// I aquí simplement imprimeixen la frase aleatòria
 echo $array[$rand];
 
+// I això és tot... quin codi més inútil
 ?>

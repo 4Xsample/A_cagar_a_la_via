@@ -4,7 +4,7 @@
 $array = [
     'Quin és el regal més català que et pot cagar el tió?',
     'Quina serà la nova i trencadora activitat a la pròxima Festa dels Súpers?',
-    'Què passa pel cap d’un votant de VOX quan introdueix la papereta a l’urna?',
+    'Què passa pel cap d’un votant de vox quan introdueix la papereta a l’urna?',
     'Quin es el meu vici secret?',
     'Què provocarà la 3a Guerra Mundial?',
     'Què acabarà portant Catalunya a la independència?',
@@ -17,7 +17,7 @@ $array = [
     'Què va causar el naixement de vox?',
     "Què va causar l'atac de cor de l'avi?",
     'Què feia tanta pudor dins la nevera?',
-    "Quan tiro canyes, m'asseguro que a l'altra persona li agradi",
+    "Quan tiro canyes, m'asseguro que a l'altra persona li agradi:",
     "Què va trobar la meva exparella a l'armari?",
     'Què fa que una festa sigui una festa?',
     "No em van ascendir a la feina quan van descobrir que m'encanta",
