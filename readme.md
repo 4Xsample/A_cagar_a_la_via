@@ -42,8 +42,6 @@ Si voleu fer servir les accions del plugin ja modificades al [Streamer.bot](http
 
 Aquests arxius es proveeixen tal com estan i no en garanteixo manteniment.
 
-Si trobeu aquests recursos útils i voleu donar suport a la meva feina, tingueu en compte fer una donació a través de PayPal (enllaç proporcionat a la insignia de dalt d'aquest readme).
-
 Gràcies per passar!
 
 ![Powered by](http://4xsample.cat/A_cagar_a_la_via/StreamUP_Panel.png)
