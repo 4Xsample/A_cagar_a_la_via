@@ -18,7 +18,7 @@
     Targeta blanca: Una orgia sorpresa.
 
     Targeta negra: Què vaig aprendre en el meu viatge a Espanya?
-    Targeta blanca: Que els toros són més intel·ligents que els toreros.
+    Targeta blanca: Puta espanya.
 
     Targeta negra: Què és el que més em fa falta en la vida?
     Targeta blanca: Un abraçada del Dalai Lama.

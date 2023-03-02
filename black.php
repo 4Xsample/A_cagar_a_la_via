@@ -26,7 +26,8 @@ $array = [
     "L’ingredient secret de l’escudella de l’àvia era",
     "Des que he deixat de mirar TV3 trobo a faltar",
     "La pròxima cançó d’Els Catarres va sobre",
-    "L’herència de l’avi al final era"
+    "L’herència de l’avi al final era",
+    "Al menú d'avui el plat especial es"
 ];
 
 // Aquí calculen un número aleatori, perquè? Doncs perquè...

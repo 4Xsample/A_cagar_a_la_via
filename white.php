@@ -66,7 +66,8 @@ $array = [
    "Còctels Molotov.",
    "Un consolador amb forma de puny.",
    "Txarango.",
-   "Francesc_bm"
+   "Francesc_bm",
+   "La Blanqueta"
 
 ];
 
