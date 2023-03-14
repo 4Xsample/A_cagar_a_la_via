@@ -11,7 +11,8 @@
 [StreamUp.tips](https://streamup.tips/) té un fantàstic plugin per [OBS](https://obsproject.com) usant [Streamer.bot](https://streamer.bot) inspirat en el joc [Cards Against Humanity](https://www.cardsagainsthumanity.com) que es pot descarregar [aquí](https://streamup.tips/product/cards-against-humanity).
 <details>
     <summary>Clicka per saber que collons es "Cards against humanity"?.</summary>
-    <em> El joc de cards against humanity és una manera de demostrar la teva creativitat i el teu sentit de l’humor negre. El joc consisteix a combinar targetes amb frases absurdes, ofensives o políticament incorrectes per crear situacions hilarants o escandaloses. Per exemple:
+    <em> El joc de cards against humanity és una manera de demostrar la teva creativitat i el teu sentit de l’humor negre. El joc consisteix a combinar targetes amb frases absurdes, ofensives o políticament incorrectes per crear situacions hilarants o escandaloses. 
+    Per exemple:
 
 
     Targeta negra: Què és el que mai falla per animar una festa?
@@ -21,7 +22,7 @@
     Targeta blanca: Puta espanya.
 
     Targeta negra: Què és el que més em fa falta en la vida?
-    Targeta blanca: Un abraçada del Dalai Lama.
+    Targeta blanca: Dir mes sovint puta espanya.
 </em>
     El joc no té cap objectiu més que passar una bona estona i riure’s de tot. No hi ha guanyadors ni perdedors, només gent horrible.😈 
 
