@@ -72,12 +72,13 @@ $array = [
 ];
 
 // Aquí calculen un número aleatori, perquè? Doncs perquè...
-$min = 0;
-$max = count($array) - 1;
-$rand = rand($min, $max);
-
+$numeroVegadesQueRemenemArray = 5;
+for($i = 0; $i<$numeroVegadesQueRemenemArray,$i++) {
+    shuffle($array);
+}
 // I aquí simplement imprimeixen la frase aleatòria
-echo $array[$rand];
+$elementARetornar  = $array[array_rand($array)];
+echo $elementARetornar;
 
 // I això és tot... quin codi més inútil
 ?>
