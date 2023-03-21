@@ -32,7 +32,7 @@ $array = [
 
 // es barreja l'array de respostes tants cops com indica el numero
 $numeroVegadesQueRemenemArray = 5;
-for($i = 0; $i<$numeroVegadesQueRemenemArray,$i++) {
+for($i = 0; $i<$numeroVegadesQueRemenemArray;$i++) {
     shuffle($array);
 }
 // I aquí simplement imprimeixen la frase aleatòria
