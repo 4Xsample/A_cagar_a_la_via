@@ -73,7 +73,7 @@ $array = [
 
 // Aquí calculen un número aleatori, perquè? Doncs perquè...
 $numeroVegadesQueRemenemArray = 5;
-for($i = 0; $i<$numeroVegadesQueRemenemArray,$i++) {
+for($i = 0; $i<$numeroVegadesQueRemenemArray;$i++) {
     shuffle($array);
 }
 // I aquí simplement imprimeixen la frase aleatòria
