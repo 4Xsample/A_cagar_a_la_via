@@ -1,6 +1,6 @@
 <?php
 
-// Aquí tenim una llista de frases absurdes
+// Una col·lecció de frases sense sentit, perquè sembla que no tenim res millor a cardar
 $array = [
    "L’Opus Dei.",
    "L’adoctrinament de TV3.",
@@ -67,18 +67,44 @@ $array = [
    "Un consolador amb forma de puny.",
    "Txarango.",
    "Francesc_bm",
+   "Un cable coaxial",
    "La Blanqueta"
-
 ];
 
-// Aquí calculen un número aleatori, perquè? Doncs perquè...
-$numeroVegadesQueRemenemArray = 5;
-for($i = 0; $i<$numeroVegadesQueRemenemArray;$i++) {
-    shuffle($array);
+// Ruta al fitxer on guardarem les últimes 5 respostes, perquè algú va decidir complicar-ho tot
+$fitxerUltimesRespostes = 'ultimes_respostes_white.txt';
+
+// Llegim les últimes respostes si el fitxer existeix, i si no, doncs res, endavant les atxes
+$ultimesRespostes = [];
+if (file_exists($fitxerUltimesRespostes)) {
+    $ultimesRespostes = file($fitxerUltimesRespostes, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 }
-// I aquí simplement imprimeixen la frase aleatòria
-$elementARetornar  = $array[array_rand($array)];
+
+// Eliminem les últimes respostes de l'array principal, no fos cas que repetíssim i algú es molestés
+$frasesDisponibles = array_diff($array, $ultimesRespostes);
+
+// Si no queden frases, és que ja hem arribat al límit de la nostra creativitat
+if (count($frasesDisponibles) == 0) {
+    // Reiniciem tot perquè no hem estat capaços de pensar en més frases
+    $frasesDisponibles = $array;
+    $ultimesRespostes = [];
+}
+
+// Agafem una frase aleatòria, perquè pensar una lògica millor seria massa feina
+$elementARetornar = $frasesDisponibles[array_rand($frasesDisponibles)];
+
+// Afegim la nova frase a les últimes respostes, per recordar el que hem cardat fins ara
+$ultimesRespostes[] = $elementARetornar;
+
+// Mantenim només les últimes 5 respostes, perquè algú va decidir que 5 era el número màgic
+if (count($ultimesRespostes) > 5) {
+    $ultimesRespostes = array_slice($ultimesRespostes, -5);
+}
+
+// Guardem les últimes respostes al fitxer, esperant que el servidor no peti
+file_put_contents($fitxerUltimesRespostes, implode("\n", $ultimesRespostes));
+
+// Finalment, imprimim la frase i ens anem a cardar un café i a cagar a la via
 echo $elementARetornar;
 
-// I això és tot... quin codi més inútil
 ?>
